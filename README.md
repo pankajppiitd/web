@@ -1,2 +1,0 @@
-# web
-Coursera Web Course
